@@ -2,7 +2,4 @@
 
 Can you solve 10 basic math questions in 10 seconds? If you think you can, then give this game a try!
 
-# preview
-
-<img src="https://github.com/dlarroder/mathgame/blob/master/mathgame.gif" alt="preview"/>
 # Game_of_numbers
